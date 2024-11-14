@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://utfs.io/f/pypyrj2zEPRNGZwzTLOXDH80eaqhW1Egy6owQ2Pd9jTRVLuz"  />
-</div>
-
 ###
 
 <div align="center">
