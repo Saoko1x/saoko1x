@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Saoko from México. <br><br>- 🔭 I’m working as a Web Developer at TienditaMaker.com<br>- 📚 I'm currently learning Data Science for Economics<br>- ⚡ In my free time, I enjoy playing video games like Valorant and other FPS games</p>
+<p align="left">I'm Saoko from México. <br><br>- 🔭 I’m working as a Web Developer at TienditaMaker.com<br>- 📚 I'm currently learning Data Science for Economics<br>- ⚡ In my free time, I enjoy playing video games like Valorant and other FPS games<br>- 🏃🏻 Runner</p>
 
 ###
 
