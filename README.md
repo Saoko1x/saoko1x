@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Saoko from México. <br><br>- 🔭 I’m working on my own app called Staminapp<br>- 📚 I'm currently learning LeetCode<br>- ⚡ In my free time, I enjoy playing video games like Valorant and other FPS games<br>- 🏃🏻 Runner</p>
+<p align="left">I'm Saoko from México. <br><br>- 🔭 I’m working on my own app called Staminapp<br>- 📚 I'm currently learning Data Science<br>- ⚡ In my free time, I enjoy playing video games like Valorant and other FPS games<br>- 🏃🏻 Runner</p>
 
 ###
 
